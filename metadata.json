@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Local Activity Finder",
+  "description": "An interactive AI-powered explorer to discover and plan exciting local activities, sights, culinary experiences, and hidden gems in your area.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
